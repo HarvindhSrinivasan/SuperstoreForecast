@@ -1,0 +1,14 @@
+C:\Users\arunb\Documents\C Sharp\bin\Debug\net8.0\C Sharp.exe
+C:\Users\arunb\Documents\C Sharp\bin\Debug\net8.0\C Sharp.deps.json
+C:\Users\arunb\Documents\C Sharp\bin\Debug\net8.0\C Sharp.runtimeconfig.json
+C:\Users\arunb\Documents\C Sharp\bin\Debug\net8.0\C Sharp.dll
+C:\Users\arunb\Documents\C Sharp\bin\Debug\net8.0\C Sharp.pdb
+C:\Users\arunb\Documents\C Sharp\obj\Debug\net8.0\C Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arunb\Documents\C Sharp\obj\Debug\net8.0\C Sharp.AssemblyInfoInputs.cache
+C:\Users\arunb\Documents\C Sharp\obj\Debug\net8.0\C Sharp.AssemblyInfo.cs
+C:\Users\arunb\Documents\C Sharp\obj\Debug\net8.0\C Sharp.csproj.CoreCompileInputs.cache
+C:\Users\arunb\Documents\C Sharp\obj\Debug\net8.0\C Sharp.dll
+C:\Users\arunb\Documents\C Sharp\obj\Debug\net8.0\refint\C Sharp.dll
+C:\Users\arunb\Documents\C Sharp\obj\Debug\net8.0\C Sharp.pdb
+C:\Users\arunb\Documents\C Sharp\obj\Debug\net8.0\C Sharp.genruntimeconfig.cache
+C:\Users\arunb\Documents\C Sharp\obj\Debug\net8.0\ref\C Sharp.dll
